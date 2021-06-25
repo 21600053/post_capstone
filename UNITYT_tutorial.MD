@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ..\..\..\..\iCloudDrive\학교\7학기\포캡\typora_image
----
-
 
 
 #  Unity Simulator Tutorial
